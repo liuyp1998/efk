@@ -7,7 +7,7 @@ import calendar
 
 
 class ES():
-    es_host = "39.107.180.125"
+    es_host = "" esip地址
     port = 9200
     timeout = 15000
     index = "secure"
